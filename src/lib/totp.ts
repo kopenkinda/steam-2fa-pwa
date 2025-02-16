@@ -1,3 +1,8 @@
+/**
+ * This file is a direct typescript, browser compatible, port of the node-steam-totp library.
+ * @see https://github.com/DoctorMcKay/node-steam-totp/blob/master/index.js
+ */
+
 /* Returns the current local Unix time.
  * @param {number} [timeOffset=0] - Seconds to add to the returned time.
  * @returns {number}
