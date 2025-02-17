@@ -13,6 +13,8 @@ export default defineConfig({
       registerType: "autoUpdate",
       manifest: {
         theme_color: "#000000",
+        name: "Steam Authenticator",
+        display: "standalone",
       },
     }),
   ],
