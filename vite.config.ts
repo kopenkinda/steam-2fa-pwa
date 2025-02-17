@@ -14,6 +14,7 @@ export default defineConfig({
       manifest: {
         theme_color: "#000000",
         name: "Steam Authenticator",
+        short_name: "Steam Auth",
         display: "standalone",
       },
     }),
